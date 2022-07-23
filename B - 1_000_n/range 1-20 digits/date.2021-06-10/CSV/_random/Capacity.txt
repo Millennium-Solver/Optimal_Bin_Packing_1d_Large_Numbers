@@ -1,6 +1,6 @@
 // Bin_Packing - 1d - 1_000_n - Capacity_1.7668 x (10 ^ 20) - K_285 - Limit_4
 https://www.random.org/integers/?num=20&min=0&max=9&col=20&base=10&format=html&rnd=date.2021-07-03
-'1' . '76681358210090397472'
+1 . 76681358210090397472
 
 // Bin_Packing - 1d - 1_000_n - Capacity_4.4305 x (10 ^ 20) - K_114 - Limit_9
 https://www.random.org/integers/?num=21&min=0&max=9&col=21&base=10&format=html&rnd=date.2022-07-19
