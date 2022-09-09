@@ -1,4 +1,8 @@
-// Multiset (2 x 10000) / 20
+/**
+ * Multiset
+ *
+ * 1000 Large Numbers ((2 x 10000) / 20)
+ */
 https://www.random.org/integers/?num=10000&min=0&max=9&col=20&base=10&format=plain&rnd=date.2021-06-10
 https://www.random.org/integers/?num=10000&min=0&max=9&col=20&base=10&format=plain&rnd=date.2021-06-09
 
