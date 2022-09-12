@@ -1,0 +1,23 @@
+// Bin_Packing - 1d - 1_000_n - Capacity_1.7668 x (10 ^ 20) - K_285 - Limit_4
+https://www.random.org/integers/?num=20&min=0&max=9&col=20&base=10&format=html&rnd=date.2021-07-03
+1 . 76681358210090397472
+
+// Bin_Packing - 1d - 1_000_n - Capacity_4.4305 x (10 ^ 20) - K_114 - Limit_9
+https://www.random.org/integers/?num=21&min=0&max=9&col=21&base=10&format=html&rnd=date.2022-07-19
+443053006952576082425
+
+// Bin_Packing - 1d - 1_000_n - Capacity_7.5215 x (10 ^ 20) - K_67 - Limit_15
+https://www.random.org/integers/?num=21&min=0&max=9&col=21&base=10&format=html&rnd=date.2022-07-18
+752158373504697489257
+
+// Bin_Packing - 1d - 1_000_n - Capacity_5.6920 x (10 ^ 20) - K_89 - Limit_12
+https://www.random.org/integers/?num=21&min=0&max=9&col=21&base=10&format=html&rnd=date.2022-07-17
+569208165608234908813
+
+// Bin_Packing - 1d - 1_000_n - Capacity_9.2051 x (10 ^ 20) - K_55 - Limit_19
+https://www.random.org/integers/?num=21&min=0&max=9&col=21&base=10&format=html&rnd=date.2022-07-16
+920518827967786466364
+
+// Bin_Packing - 1d - 1_000_n - Capacity_2.9497 x (10 ^ 20) - K_171 - Limit_6
+https://www.random.org/integers/?num=21&min=0&max=9&col=21&base=10&format=html&rnd=date.2022-07-15
+294978166699377768499
