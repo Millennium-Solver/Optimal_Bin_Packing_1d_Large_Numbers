@@ -1,0 +1,16 @@
+Optimal_Bin_Packing_1d_Large_Numbers\B - 1_000_n\range 1-100 digits\date.2021-06-02\
+
+Bin_Packing - 1d - 1_000_n - Capacity_2.0 x (10 ^ 100) - K_245 - Limit_5
+Bin_Packing - 1d - 1_000_n - Capacity_3.0 x (10 ^ 100) - K_164 - Limit_7
+Bin_Packing - 1d - 1_000_n - Capacity_4.0 x (10 ^ 100) - K_123 - Limit_9
+Bin_Packing - 1d - 1_000_n - Capacity_5.0 x (10 ^ 100) - K_98 - Limit_11
+Bin_Packing - 1d - 1_000_n - Capacity_6.0 x (10 ^ 100) - K_82 - Limit_13
+Bin_Packing - 1d - 1_000_n - Capacity_7.0 x (10 ^ 100) - K_70 - Limit_15
+Bin_Packing - 1d - 1_000_n - Capacity_8.0 x (10 ^ 100) - K_62 - Limit_17
+Bin_Packing - 1d - 1_000_n - Capacity_9.0 x (10 ^ 100) - K_55 - Limit_19
+Bin_Packing - 1d - 1_000_n - Capacity_10.0 x (10 ^ 100) - K_49 - Limit_21
+_random\Bin_Packing - 1d - 1_000_n - Capacity_3.3872 x (10 ^ 100) - K_145 - Limit_7
+_random\Bin_Packing - 1d - 1_000_n - Capacity_3.7701 x (10 ^ 100) - K_130 - Limit_8
+_random\Bin_Packing - 1d - 1_000_n - Capacity_5.8255 x (10 ^ 100) - K_85 - Limit_12
+_random\Bin_Packing - 1d - 1_000_n - Capacity_6.3795 x (10 ^ 100) - K_77 - Limit_13
+_random\Bin_Packing - 1d - 1_000_n - Capacity_8.5398 x (10 ^ 100) - K_58 - Limit_18
